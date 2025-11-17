@@ -1,16 +1,383 @@
-## Hi there 👋
+<div align="center">
+  <div align="center">
 
-<!--
-**kristiangarcia/kristiangarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   ```
+    ██╗  ██╗██████╗ ██╗███████╗████████╗██╗ █████╗ ███╗   ██╗
+    ██║ ██╔╝██╔══██╗██║██╔════╝╚══██╔══╝██║██╔══██╗████╗  ██║
+    █████╔╝ ██████╔╝██║███████╗   ██║   ██║███████║██╔██╗ ██║
+    ██╔═██╗ ██╔══██╗██║╚════██║   ██║   ██║██╔══██║██║╚██╗██║
+    ██║  ██╗██║  ██║██║███████║   ██║   ██║██║  ██║██║ ╚████║
+    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝   ╚═╝   ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+   ```
 
-Here are some ideas to get you started:
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7C3&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer+🚀;AI+Agents+%26+Automation+Specialist+🤖;Cloud+%26+DevOps+Enthusiast+☁️;Open+Source+Contributor+💻)](https://git.io/typing-svg)
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/kristian-garcia-paulsen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:info@kristiangarcia.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://kristiangarcia.com"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=kristiangarcia&label=Profile%20views&color=0e75b6&style=flat" alt="kristiangarcia" />
+  </p>
+</div>
+
+---
+
+## 🚀 About Me
+
+```typescript
+const kristian = {
+    location: "Granada, Spain 🇪🇸",
+    role: "Fullstack Developer & AI Specialist",
+    languages: {
+        spanish: "Native",
+        english: "C1 Proficient",
+        norwegian: "B1 Intermediate"
+    },
+    code: ["TypeScript", "JavaScript", "Python", "Java", "PHP"],
+    technologies: {
+        frontEnd: {
+            frameworks: ["React", "Next.js"],
+            styling: ["Tailwind CSS", "CSS3", "HTML5"],
+            tools: ["Vite"]
+        },
+        backEnd: {
+            runtime: ["Node.js"],
+            languages: ["Python", "Java", "PHP"],
+            apis: ["REST"]
+        },
+        ai: {
+            frameworks: ["Langchain", "Langgraph"],
+            focus: ["AI Agents", "Automation", "SDR Systems"]
+        },
+        databases: ["SQL", "MySQL"],
+        devOps: ["Docker", "Podman", "Git", "Linux", "Bash"]
+    },
+    currentFocus: "Building AI-powered automation systems",
+    currentProject: "Zaly - AI SDR for sales prospecting",
+    achievements: {
+        academicRecord: "Best Academic Record Trophy (2022-2024)",
+        community: "LuminaKraft Studios - 1,000+ members",
+        certifications: ["Cisco Networking Academy", "Python Essentials (PCAP)"]
+    }
+};
+```
+
+<p align="left">
+  I'm a passionate fullstack developer from Granada, Spain, specializing in AI Agents and automation systems. I learn quickly and deliver high-quality solutions to real problems. Currently working on cutting-edge AI-powered sales automation and contributing to open-source projects.
+</p>
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>Frontend Development</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Backend Development</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>AI & Automation</b></summary>
+<br>
+
+![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge&logo=robot&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-4285F4?style=for-the-badge&logo=google-assistant&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Databases</b></summary>
+<br>
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>DevOps & Tools</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![M365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+
+</details>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kristiangarcia&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Kristian's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristiangarcia&layout=compact&theme=radical&langs_count=8" alt="Kristian's Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kristiangarcia&theme=radical" alt="Kristian's GitHub Streak"/>
+</div>
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+[![LuminaKraft Launcher](https://github-readme-stats.vercel.app/api/pin/?username=kristiangarcia&repo=LuminaKraft-Launcher&theme=radical)](https://github.com/kristiangarcia/LuminaKraft-Launcher)
+
+</div>
+
+### 🌟 Highlighted Work
+
+- **Zaly** - AI-powered SDR system for sales prospecting automation (CLAI Academy)
+- **LuminaKraft Launcher** - Cross-platform Minecraft launcher built with Tauri & React (307+ commits, 5 stars)
+- **LuminaKraft Studios** - Gaming community with 1,000+ members and 250K+ TikTok views
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kristiangarcia&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+- 🏅 **Best Academic Record Trophy** (2022-2024) - Microcomputer Systems and Networks
+- 🌍 **Erasmus+ Reference Letter**
+- 🎓 **Cisco Networking Academy Certification**
+- 🐍 **Python Essentials (PCAP) Certification**
+- 📚 Currently pursuing: University Specialization in Multi-Market Investment
+- 💻 Currently pursuing: Advanced Cross-Platform Application Development
+
+## 💼 Professional Experience
+
+**AI Developer** @ CLAI Academy (Freelance)
+*July 2025 - September 2025 | Paris*
+- Developing Zaly, an AI-powered sales development representative system
+- Designing and implementing AI systems for sales prospecting automation
+
+## 📫 Let's Connect!
+
+<p align="center">
+  Feel free to reach out for collaborations, opportunities, or just a chat about tech!
+</p>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kristian-garcia-paulsen/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@kristiangarcia.com)
+[![Website](https://img.shields.io/badge/Website-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kristiangarcia.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kristiangarcia/kristiangarcia/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<br>
+
+---
+
+# 🇪🇸 Versión en Español
+
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7C3&center=true&vCenter=true&random=false&width=550&lines=Desarrollador+Full-Stack+🚀;Especialista+en+IA+y+Automatización+🤖;Entusiasta+Cloud+%26+DevOps+☁️;Colaborador+Open+Source+💻)](https://git.io/typing-svg)
+
+</div>
+
+## 🚀 Sobre Mí
+
+```typescript
+const kristian = {
+    ubicacion: "Granada, España 🇪🇸",
+    rol: "Desarrollador Fullstack & Especialista en IA",
+    idiomas: {
+        español: "Nativo",
+        ingles: "C1 Competente",
+        noruego: "B1 Intermedio"
+    },
+    codigo: ["TypeScript", "JavaScript", "Python", "Java", "PHP"],
+    tecnologias: {
+        frontEnd: {
+            frameworks: ["React", "Next.js"],
+            estilos: ["Tailwind CSS", "CSS3", "HTML5"],
+            herramientas: ["Vite"]
+        },
+        backEnd: {
+            runtime: ["Node.js"],
+            lenguajes: ["Python", "Java", "PHP"],
+            apis: ["REST"]
+        },
+        ia: {
+            frameworks: ["Langchain", "Langgraph"],
+            enfoque: ["Agentes IA", "Automatización", "Sistemas SDR"]
+        },
+        baseDatos: ["SQL", "MySQL"],
+        devOps: ["Docker", "Podman", "Git", "Linux", "Bash"]
+    },
+    enfoqueActual: "Construyendo sistemas de automatización con IA",
+    proyectoActual: "Zaly - SDR con IA para prospección de ventas",
+    logros: {
+        expedienteAcademico: "Premio Mejor Expediente Académico (2022-2024)",
+        comunidad: "LuminaKraft Studios - 1,000+ miembros",
+        certificaciones: ["Cisco Networking Academy", "Python Essentials (PCAP)"]
+    }
+};
+```
+
+<p align="left">
+  Soy un desarrollador fullstack apasionado de Granada, España, especializado en Agentes de IA y sistemas de automatización. Aprendo rápido y entrego soluciones de alta calidad a problemas reales. Actualmente trabajando en automatización de ventas con IA de vanguardia y contribuyendo a proyectos de código abierto.
+</p>
+
+## 🛠️ Stack Tecnológico
+
+<details open>
+<summary><b>Desarrollo Frontend</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Desarrollo Backend</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>IA & Automatización</b></summary>
+<br>
+
+![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
+![AI](https://img.shields.io/badge/Agentes_IA-FF6F00?style=for-the-badge&logo=robot&logoColor=white)
+![Automation](https://img.shields.io/badge/Automatización-4285F4?style=for-the-badge&logo=google-assistant&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Bases de Datos</b></summary>
+<br>
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>DevOps & Herramientas</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![M365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+
+</details>
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kristiangarcia&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=es" alt="Estadísticas de GitHub de Kristian"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristiangarcia&layout=compact&theme=radical&langs_count=8&locale=es" alt="Lenguajes Más Usados por Kristian"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kristiangarcia&theme=radical&locale=es" alt="Racha de GitHub de Kristian"/>
+</div>
+
+## 🎯 Proyectos Destacados
+
+<div align="center">
+
+[![LuminaKraft Launcher](https://github-readme-stats.vercel.app/api/pin/?username=kristiangarcia&repo=LuminaKraft-Launcher&theme=radical&locale=es)](https://github.com/kristiangarcia/LuminaKraft-Launcher)
+
+</div>
+
+### 🌟 Trabajos Destacados
+
+- **Zaly** - Sistema SDR con IA para automatización de prospección de ventas (CLAI Academy)
+- **LuminaKraft Launcher** - Launcher multiplataforma de Minecraft construido con Tauri & React (307+ commits, 5 estrellas)
+- **LuminaKraft Studios** - Comunidad gaming con 1,000+ miembros y 250K+ visualizaciones en TikTok
+
+## 🏆 Logros y Certificaciones
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kristiangarcia&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="Trofeos de GitHub"/>
+</div>
+
+- 🏅 **Premio Mejor Expediente Académico** (2022-2024) - Sistemas Microinformáticos y Redes
+- 🌍 **Carta de Referencia Erasmus+**
+- 🎓 **Certificación Cisco Networking Academy**
+- 🐍 **Certificación Python Essentials (PCAP)**
+- 📚 Cursando actualmente: Especialización Universitaria en Inversión Multi-Mercado
+- 💻 Cursando actualmente: Desarrollo de Aplicaciones Multiplataforma Avanzado
+
+## 💼 Experiencia Profesional
+
+**Desarrollador de IA** @ CLAI Academy (Freelance)
+*Julio 2025 - Septiembre 2025 | París*
+- Desarrollando Zaly, un sistema de representante de desarrollo de ventas con IA
+- Diseñando e implementando sistemas de IA para automatización de prospección de ventas
+
+## 📫 ¡Conectemos!
+
+<p align="center">
+  No dudes en contactar para colaboraciones, oportunidades, o simplemente charlar sobre tecnología!
+</p>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kristian-garcia-paulsen/)
+[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@kristiangarcia.com)
+[![Website](https://img.shields.io/badge/Sitio_Web-Visitar-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kristiangarcia.com)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by Kristian García Paulsen</sub>
+</div>

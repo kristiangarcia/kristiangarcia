@@ -73,6 +73,7 @@ const kristian = {
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
@@ -108,7 +109,7 @@ const kristian = {
 
 </details>
 
-<details>
+<details open>
 <summary><b>Databases</b></summary>
 <br>
 
@@ -119,7 +120,7 @@ const kristian = {
 
 </details>
 
-<details>
+<details open>
 <summary><b>DevOps & Tools</b></summary>
 <br>
 

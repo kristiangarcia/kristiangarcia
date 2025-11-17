@@ -104,6 +104,7 @@ const kristian = {
 <br>
 
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge&logo=robot&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-4285F4?style=for-the-badge&logo=google-assistant&logoColor=white)
 
@@ -131,6 +132,16 @@ const kristian = {
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![M365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Self-Hosting & Infrastructure</b></summary>
+<br>
+
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-0E4688?style=for-the-badge&logo=pterodactyl&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
+![Self-Hosted](https://img.shields.io/badge/Self--Hosted-FF6C37?style=for-the-badge&logo=homeassistant&logoColor=white)
 
 </details>
 

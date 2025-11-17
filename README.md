@@ -34,52 +34,17 @@
 const kristian = {
     location: "Granada, Spain 🇪🇸",
     role: "Fullstack Developer & AI Specialist",
-    languages: {
-        spanish: "Native",
-        english: "C1 Proficient",
-        norwegian: "B1 Intermediate"
-    },
-    code: ["TypeScript", "JavaScript", "Python", "Java", "C#", "PHP"],
-    technologies: {
-        frontEnd: {
-            frameworks: ["React", "Next.js", "Angular", "Astro"],
-            styling: ["Tailwind CSS", "CSS3", "HTML5"],
-            tools: ["Vite"]
-        },
-        backEnd: {
-            runtime: ["Node.js"],
-            languages: ["Python", "Java", "C#", "PHP"],
-            frameworks: ["Spring Boot"],
-            apis: ["REST"]
-        },
-        mobile: {
-            frameworks: ["React Native"]
-        },
-        gameDev: {
-            engines: ["Unity"],
-            languages: ["C#"],
-            minecraftPlugins: ["Spigot", "Paper"]
-        },
-        ai: {
-            frameworks: ["Langchain", "Langgraph"],
-            focus: ["AI Agents", "Automation", "SDR Systems"]
-        },
-        databases: ["PostgreSQL", "MySQL", "Supabase"],
-        devOps: ["Docker", "Podman", "Git", "Linux", "Bash"]
-    },
     currentFocus: "Building AI-powered automation systems",
     currentProject: "Zaly - AI SDR for sales prospecting",
-    achievements: {
-        academicRecord: "Best Academic Record Trophy (2022-2024)",
-        community: "LuminaKraft Studios - 1,000+ members",
-        certifications: ["Cisco Networking Academy", "Python Essentials (PCAP)"]
-    }
+    passion: ["AI Agents", "Web Development", "Game Development", "Open Source"]
 };
 ```
 
 <p align="left">
   I'm a passionate fullstack developer from Granada, Spain, specializing in AI Agents and automation systems. I learn quickly and deliver high-quality solutions to real problems. Currently working on cutting-edge AI-powered sales automation and contributing to open-source projects.
 </p>
+
+**Languages:** Spanish (Native) • English (C1) • Norwegian (B1)
 
 ## 🛠️ Tech Stack
 

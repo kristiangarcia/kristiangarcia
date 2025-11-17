@@ -35,7 +35,7 @@ const kristian = {
     location: "Granada, Spain 🇪🇸",
     role: "Fullstack Developer & AI Specialist",
     currentFocus: "Building AI-powered automation systems",
-    currentProject: "Zaly - AI SDR for sales prospecting",
+    currentProject: "Secret startup project 🤫",
     passion: ["AI Agents", "Web Development", "Game Development", "Open Source"]
 };
 ```

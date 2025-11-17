@@ -66,6 +66,15 @@ const kristian = {
 </details>
 
 <details open>
+<summary><b>Desktop Development</b></summary>
+<br>
+
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
+</details>
+
+<details open>
 <summary><b>Backend Development</b></summary>
 <br>
 
@@ -186,9 +195,24 @@ const kristian = {
 ## 💼 Professional Experience
 
 **AI Developer** @ CLAI Academy (Freelance)
-*July 2025 - September 2025 | Paris*
-- Developing Zaly, an AI-powered sales development representative system
-- Designing and implementing AI systems for sales prospecting automation
+*July 2025 - September 2025 | Paris, France*
+- Developing Zaly, an AI-powered SDR for automating and optimizing sales prospecting
+- Designing and implementing AI systems to handle majority of SDR workload
+- Enabling sales teams to focus on effective tasks through automation
+
+**Web Application Developer** @ Floorball Verband Berlin-Brandenburg e.V. (Erasmus+ Internship)
+*March 2024 - June 2024 | Berlin, Germany*
+- Built web applications for league management, digital referee passports, and online billing
+- Implemented data structures (JSON), PHP scripts, and REST APIs for integration with M365 and SharePoint
+- Enhanced user interfaces with responsive designs and interactive elements
+- Optimized workflows using intuitive forms, automatic calculations, and role/permission management
+
+**Software Developer** @ Cívica (Training)
+*May 2024 | Granada, Spain*
+- Full-stack development training focused on personal skill-building
+- Developed front-end and back-end applications using Java, HTML, CSS, JavaScript, React, and SQL
+- Implementation of modular and component-based architectures
+- Configured development environments using Podman
 
 ## 📫 Let's Connect!
 
